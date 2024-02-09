@@ -1,8 +1,7 @@
 package com.dev;
 
-public class MyAspect {
-
+public class Teacher {
     public static void main(String[] args) {
-        System.out.println("mnm");
+        System.out.println();
     }
 }
