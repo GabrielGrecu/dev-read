@@ -3,7 +3,7 @@ package com.dev.withContainer;
 public class MyContainer {
     private ITeacher teacher;
 
-    public ITeacher getTeacher(){
+    public synchronized ITeacher getTeacher(){
         //varianta singleton
         if(teacher == null){
             teacher = new JavaTeacher();
@@ -12,7 +12,7 @@ public class MyContainer {
     }
 
     //pentru prototype
-    public ITeacher getPrototypeTeacher(){
+    public synchronized ITeacher getPrototypeTeacher(){
         return new JavaTeacher();
     }
 }
