@@ -24,11 +24,11 @@ public class School {
         return address;
     }
 
-    private void performInitialization() {
+    private void init() {
         System.out.println("school initialization");
     }
 
-    private void performDestruction() {
+    private void destroy() {
         System.out.println("school destruction. Use this to free resources.");
     }
 }
