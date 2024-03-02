@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Import;
 
 @Configuration
 @ComponentScan("com.dev.withoutXML")
-@Import(WisdomWordsService.class)
+//@Import(WisdomWordsService.class)
 public class TeacherConfiguration {
 
     @Autowired

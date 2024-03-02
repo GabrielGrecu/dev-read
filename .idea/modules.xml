@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curs-3/curs-3.iml" filepath="$PROJECT_DIR$/curs-3/curs-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curs-4/curs-4.iml" filepath="$PROJECT_DIR$/curs-4/curs-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curs-5/curs-5.iml" filepath="$PROJECT_DIR$/curs-5/curs-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curs-6/curs-6.iml" filepath="$PROJECT_DIR$/curs-6/curs-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curs-7/curs-7.iml" filepath="$PROJECT_DIR$/curs-7/curs-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curs-8/curs-8.iml" filepath="$PROJECT_DIR$/curs-8/curs-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curs2/curs2.iml" filepath="$PROJECT_DIR$/curs2/curs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/read-app.iml" filepath="$PROJECT_DIR$/.idea/read-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recap-1/recap-1.iml" filepath="$PROJECT_DIR$/recap-1/recap-1.iml" />
+    </modules>
+  </component>
+</project>
