@@ -7,3 +7,9 @@ desktop.ini
 */*.iml
 
 libs
+
+*/.mvn
+*/mvnw
+*/mvnw.cmd
+*/.gitignore
+*.iml
